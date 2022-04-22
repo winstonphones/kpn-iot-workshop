@@ -21,6 +21,7 @@
 ## Explain M2M vs Lora
 
 * slide!
+* M2M promo
 
 ## Explain device types
 
@@ -28,9 +29,17 @@
 
 ## Configure a flow
 
+## Data Processing
+
 ## Device twin
 
-## Projects, flows
+## (All) Projects, (All) flows, Bulk reports
+
+## News / Release Notes
+
+## docs.kpnthings
+
+* different versions?
 
 # Part 2
 
