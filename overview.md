@@ -62,6 +62,16 @@
 - live demo
 - other tabs under device
 
+## Destinations
+
+- types: HTTPS, Azure Event/Iot Hub, Cumulocity, MQTT
+- in Part 2 more details
+
+## Cumulocity
+
+- Patrick?
+- Move this to Part 2?
+
 ## (All) Projects, (All) flows, Bulk reports
 
 - prepare account to shows many flows etc, data on bulk reports to demo filtering/search/pagination
@@ -85,10 +95,6 @@
 
 - https://docs.kpnthings.com/portal/
 - https://docs.kpnthings.com/dm/
-
-## Cumulocity
-
-- Patrick?
 
 # Part 2
 
