@@ -17,10 +17,13 @@
 ## Intro about KPN Things
 
 - TODO IoT: embbed systems, remote monitoring, use cases!
+  - BOAs / unigarant
+  - 
 - Explain that we want them to ask questions, keep it interactive
 - Explain devices/connectivity/processing/data destination
 - slide Martijn
 - Martijn? of Winston/Tim
+- Who ever lost something (bicycles), show the final state
 
 ## Explain device types
 
@@ -143,3 +146,10 @@
 ## Set destination: Azure Web App
 
 - Add as a second HTTPS endpoint, not as Azure
+
+## Final slide
+
+- feedback about workshop
+- feedback about Portal
+- available for questions
+- sprint reviews
