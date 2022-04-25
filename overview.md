@@ -1,14 +1,19 @@
 * make slide deck
 * prepare small map app, working name "LoraTrack"
 * required (for part 2): Azure account
+* create accounts as back-up
+* event organizing: Martin, talk: Tim & Winston, Martijn
 
 # Part 1
 
 ## Create accounts
 
-## Explain source/../../destination
+- reservation of 5 minutes
 
-* slide Martijn
+## Intro about KPN Things
+
+- Explain devices/connectivity/processing/data destination
+- slide Martijn
 
 ## SenML
 
@@ -50,6 +55,8 @@
 ## Set destination: webhook.site to log data
 
 ## Locally run "LoraTrack"
+
+- set up webhook.site XHR forwarding!
 
 ## Deploy "LoraTrack" to Azure Web App
 
