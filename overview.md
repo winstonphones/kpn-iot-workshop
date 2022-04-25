@@ -14,29 +14,51 @@
 
 - Explain devices/connectivity/processing/data destination
 - slide Martijn
+- Martijn? of Winston/Tim
 
-## SenML
+## Explain device types
 
-## Tenants/multi user accounts
+- Marvin, Elsys SER, Own LoRa device, Streamline LoRa, Viloc, 1M2M ED1608
 
-## Configure a project
+## Provision simulated device
 
-## Explain Freemium, Explorer, Modular
+- live demo
+- explain the App
 
 ## Explain M2M vs Lora
 
 - slide!
 - M2M promo
 
-## Explain device types
+## Connectivty
 
-## Provision simulated device
+- TODO SenML only for Lora or also for M2M?
 
-- no slide
+
+## SenML
+
+- short intro
+
+## Data Processing
+
+- explain decoders/encoders
+
+
+## Tenants/multi user accounts
+
+## Configure a project
+
+## Explain subscription types: Freemium, Explorer, Modular
+
+
+
+
+
+
+
 
 ## Configure a flow
 
-## Data Processing
 
 ## Device twin
 
@@ -59,6 +81,8 @@
 ## Demo reverse data: set Streamline in missing mode
 
 ## Set destination: webhook.site to log data
+
+- Explain SenML payload
 
 ## Locally run "LoraTrack"
 
