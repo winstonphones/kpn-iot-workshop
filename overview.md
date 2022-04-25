@@ -138,4 +138,8 @@
 
 ## Deploy "LoraTrack" to Azure Web App
 
+- TODO azcli
+
 ## Set destination: Azure Web App
+
+- Add as a second HTTPS endpoint, not as Azure
