@@ -4,14 +4,17 @@
 - create accounts as back-up
 - event organizing: Martin, talk: Tim & Winston, Martijn, support: Patrick
 
+
 # Part 1
 
 ## Create accounts
 
 - reservation of 5 minutes
+- explain only the Freemium subscription
 
 ## Intro about KPN Things
 
+- Explain that we want them to ask questions, keep it interactive
 - Explain devices/connectivity/processing/data destination
 - slide Martijn
 - Martijn? of Winston/Tim
@@ -19,6 +22,7 @@
 ## Explain device types
 
 - Marvin, Elsys SER, Own LoRa device, Streamline LoRa, Viloc, 1M2M ED1608
+- own Arduino devices with HATs, there is an (unsupported?) example library
 
 ## Provision simulated device
 
@@ -28,41 +32,39 @@
 ## Explain M2M vs Lora
 
 - slide!
-- M2M promo
+- tell them about M2M promo for 2 free sims
 
 ## Connectivty
 
 - TODO SenML only for Lora or also for M2M?
 
-
 ## SenML
 
 - short intro
+
+## Configure a flow
+
+- flow is required
+- just a way to group device settings
 
 ## Data Processing
 
 - explain decoders/encoders
 
+## Device twin
+
+- live demo
+- other tabs under device
+
+## (All) Projects, (All) flows, Bulk reports
+
+- prepare account to shows many flows etc, data on bulk reports to demo filtering/search/pagination
 
 ## Tenants/multi user accounts
 
 ## Configure a project
 
 ## Explain subscription types: Freemium, Explorer, Modular
-
-
-
-
-
-
-
-
-## Configure a flow
-
-
-## Device twin
-
-## (All) Projects, (All) flows, Bulk reports
 
 ## News / Release Notes
 
