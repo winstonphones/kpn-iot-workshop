@@ -108,15 +108,32 @@
 
 ## Provision Streamline
 
+- what, where, how many, which model (N1C2?) - 20 should be enough
+- when can we have them, before 6 May? Pick up 5 May
+- return after the demo? Do we have overstock? Put it on your bike
+- what does it cost N1C2? Viloc is 55 at bol.com
+- TODO test provisioning
+- TODO Patrick? show Hardware use cases (locationtag, vulmeter)
+
 ## Demo reverse data: set Streamline in missing mode
 
-## Set destination: webhook.site to log data
+- from Device view, tab Send data to Device
+- TODO prepare SenML
+- TODO test: blink LEDs!
+- explain missing mode and battery use
 
+## Set destination
+
+- HTTPS endpoint to webhook.site to log data
 - Explain SenML payload
 
 ## Locally run "LoraTrack"
 
+- clone https://github.com/code-star/lora-track
+- npm install
+- TODO npm start?
 - set up webhook.site XHR forwarding!
+- maps in app should be updated
 
 ## Deploy "LoraTrack" to Azure Web App
 
