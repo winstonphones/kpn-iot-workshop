@@ -40,9 +40,9 @@
 - slide!
 - tell them about M2M promo for 2 free sims
 
-## Connectivty
+## Connectivity
 
-- TODO SenML only for Lora or also for M2M?
+- SenML for Lora en ook voor M2M
 
 ## SenML
 
@@ -84,6 +84,7 @@
   - tenants
   - resellers
   - also link to docs
+  - secure by design
 
 ## Explain subscription types
 
@@ -101,6 +102,7 @@
 
 - show some hardware
 - overview of Part 2: press a button, and show data. Show screenshot of the map.
+- hands-on
 
 # Part 2
 
