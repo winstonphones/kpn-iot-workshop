@@ -16,6 +16,7 @@
 
 ## Intro about KPN Things
 
+- TODO IoT: embbed systems, remote monitoring, use cases!
 - Explain that we want them to ask questions, keep it interactive
 - Explain devices/connectivity/processing/data destination
 - slide Martijn
