@@ -1,3 +1,5 @@
+# Step by Step workshop guide
+
 - make slide deck
 - prepare small map app, working name "LoraTrack"
 - required (for part 2): Azure account
@@ -23,6 +25,10 @@
 
 - Marvin, Elsys SER, Own LoRa device, Streamline LoRa, Viloc, 1M2M ED1608
 - own Arduino devices with HATs, there is an (unsupported?) example library
+
+## Project
+
+- A new account already has 1 project (and a flow)
 
 ## Provision simulated device
 
@@ -62,9 +68,16 @@
 
 ## Tenants/multi user accounts
 
-## Configure a project
+- no live demo, only slides:
+  - GRIP
+  - tenants
+  - resellers
+  - also link to docs
 
-## Explain subscription types: Freemium, Explorer, Modular
+## Explain subscription types
+
+- slide
+- Freemium, Explorer, Modular
 
 ## News / Release Notes
 
