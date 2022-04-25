@@ -4,7 +4,7 @@
 - prepare small map app, working name "LoraTrack"
 - required (for part 2): Azure account
 - create accounts as back-up
-- event organizing: Martin, talk: Tim & Winston, Martijn, support: Patrick
+- event organizing: Martin, talk: Tim & Winston, Martijn, support: Patrick, Hein
 
 
 # Part 1
