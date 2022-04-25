@@ -77,13 +77,14 @@
 ## Explain subscription types
 
 - slide
-- Freemium, Explorer, Modular
-
-## News / Release Notes
+- Freemium, Explorer, Custom License
+- upgrade button/promo
+- News / Release Notes / release cycle
 
 ## docs.kpnthings
 
-- different versions?
+- https://docs.kpnthings.com/portal/
+- https://docs.kpnthings.com/dm/
 
 ## Cumulocity
 
