@@ -1,8 +1,8 @@
-* make slide deck
-* prepare small map app, working name "LoraTrack"
-* required (for part 2): Azure account
-* create accounts as back-up
-* event organizing: Martin, talk: Tim & Winston, Martijn
+- make slide deck
+- prepare small map app, working name "LoraTrack"
+- required (for part 2): Azure account
+- create accounts as back-up
+- event organizing: Martin, talk: Tim & Winston, Martijn, support: Patrick
 
 # Part 1
 
@@ -25,12 +25,14 @@
 
 ## Explain M2M vs Lora
 
-* slide!
-* M2M promo
+- slide!
+- M2M promo
 
 ## Explain device types
 
 ## Provision simulated device
+
+- no slide
 
 ## Configure a flow
 
@@ -44,7 +46,11 @@
 
 ## docs.kpnthings
 
-* different versions?
+- different versions?
+
+## Cumulocity
+
+- Patrick?
 
 # Part 2
 
