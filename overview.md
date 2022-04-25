@@ -60,6 +60,7 @@
 ## Device twin
 
 - live demo
+- Show the updated data from the simulation App
 - other tabs under device
 
 ## Destinations
@@ -95,6 +96,11 @@
 
 - https://docs.kpnthings.com/portal/
 - https://docs.kpnthings.com/dm/
+
+## Teaser Part 2
+
+- show some hardware
+- overview of Part 2: press a button, and show data. Show screenshot of the map.
 
 # Part 2
 
